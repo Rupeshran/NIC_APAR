@@ -1,0 +1,44 @@
+# ========================
+# Node.js / Frontend
+# ========================
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.log
+npm-debug.log*
+
+# ========================
+# Java / Spring Boot Backend
+# ========================
+backend/target/
+backend/.mvn/
+backend/.settings/
+backend/.classpath
+backend/.project
+*.class
+*.jar
+*.war
+
+# ========================
+# IDE Files
+# ========================
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# ========================
+# OS Files
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========================
+# Environment
+# ========================
+.env
+.env.local
+.env.production
