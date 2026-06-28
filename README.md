@@ -78,7 +78,7 @@ The frontend runs on `http://localhost:5173`.
 | Frontend | React 19, Vite, React Router |
 | Backend  | Spring Boot, Spring Data JPA |
 | Database | MySQL                   |
-| Styling  | Vanilla CSS (Government UI theme) |
+| Styling  | Vanilla CSS  |
 
 ## 📋 API Endpoints
 
